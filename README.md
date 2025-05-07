@@ -1,6 +1,6 @@
 # Instrukcja Instalacji
 
-1. Miej wyłączoną grę
+1. Miej **WYŁĄCZONĄ** grę
 2. Pobierz [to archiwum](https://github.com/Wredna/team-fortress-2-configs/archive/refs/heads/main.zip)
 3. Wypakuj jego zawartość do folderu `..\steamapps\common\Team Fortress 2\tf\custom`
 4. Upewnij się, że ścieżka do pliku `wredna.cfg` wygląda następująco:
